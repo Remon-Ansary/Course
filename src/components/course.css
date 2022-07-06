@@ -1,0 +1,34 @@
+img {
+  max-width: 60%;
+
+  display: block; /* remove extra space below image */
+}
+.main {
+  color: #000;
+}
+.person {
+  display: inline-block;
+}
+
+.star {
+  color: rgb(255, 215, 35);
+}
+.rounded-circle {
+  width: 80px;
+}
+.text-blue {
+  color: rgb(66, 66, 194);
+}
+.imageDiv {
+  height: 350px;
+  width: 100%;
+}
+.imageDiv2 {
+  height: 150px;
+  width: 100%;
+}
+.imageDiv3 {
+  height: 170px;
+  width: 100%;
+}
+/* image section */
